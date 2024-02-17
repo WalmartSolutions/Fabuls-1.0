@@ -1,2 +1,25 @@
-# Fabuls-1.0
-Rename of TopHat. Devs of it messed up like 30 times.
+<h1 align="center">Fabuls 1.0</h1>
+
+**Trillium INC | https://discord.gg/vzXzFpv2gk**
+
+# Why?
+This client is one of the biggest rename and a skid of all time. The client is being sold for unknown price and the devs of it are one of the most restarted people in the world. It got so bad in fact, that i had to drop a montage on the devs.
+
+[1]: https://github.com/3000IQPlay
+[2]: https://github.com/ethaanol
+
+# How To Use
+
+1. Download the Fabuls zip.
+2. Unzip it, and run FabulsLauncher.exe
+3. Once you are in the Login Screen, put anything you want there.
+
+# Credits
+- Mark - Making TopHat client.
+- Sudo, Dimeus - Skidding into it.
+- [3000IQPlay][1] - Cracking.
+- Fabuls Backend - Jar.
+
+# GUI (Bind: RCtrl)
+
+<img src="https://media.discordapp.net/attachments/1196115644593209415/1208426187895087144/Wpkhvjx.png?ex=65e33d96&is=65d0c896&hm=007b0bf8c78c6fff21f390bf2aa92b09515cb9de8fa2d025cf2a0865970040a2&=&format=webp&quality=lossless&width=1662&height=934">
