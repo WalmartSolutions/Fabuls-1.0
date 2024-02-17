@@ -16,7 +16,8 @@ This client is one of the biggest rename and a skid of all time. The client is b
 
 # Credits
 - Mark - Making TopHat client.
-- Sudo, Dimeus - Skidding into it.
+- Dimeus - Making the Backend.
+- Sudo - Skidding into the client.
 - [3000IQPlay][1] - Cracking.
 - Fabuls Backend - Jar.
 
