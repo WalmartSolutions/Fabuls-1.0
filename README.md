@@ -10,8 +10,8 @@ This client is one of the biggest rename and a skid of all time. The client is b
 
 # How To Use
 
-1. Download the Fabuls zip.
-2. Unzip it, and run FabulsLauncher.exe
+1. Download the "Fabuls" ZIP and "client.jar".
+2. Unzip Fabuls, move "client.jar" into "Fabuls/client" folder, run FabulsLauncher.exe
 3. Once you are in the Login Screen, put anything you want there.
 
 # Credits
