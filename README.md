@@ -3,7 +3,7 @@
 **Trillium INC | https://discord.gg/vzXzFpv2gk**
 
 # Why?
-This client is one of the biggest rename and a skid of all time. The client is being sold for unknown price and the devs of it are one of the most restarted people in the world. It got so bad in fact, that i had to drop a montage on the devs.
+This client is one of the biggest renames and pastes of all time. The client is being sold for an unknown price and the devs of it are one of the most restarted people in the world. It got so bad in fact, that I had to drop a montage on the devs.
 
 [1]: https://github.com/3000IQPlay
 [2]: https://github.com/ethaanol
