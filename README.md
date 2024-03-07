@@ -23,4 +23,6 @@ This client is one of the biggest renames and pastes of all time. The client is 
 
 # GUI (Bind: RCtrl)
 
-<img src="https://media.discordapp.net/attachments/1196115644593209415/1208426187895087144/Wpkhvjx.png?ex=65e33d96&is=65d0c896&hm=007b0bf8c78c6fff21f390bf2aa92b09515cb9de8fa2d025cf2a0865970040a2&=&format=webp&quality=lossless&width=1662&height=934">
+https://www.youtube.com/watch?v=OSiNs0rX484 <br>
+https://www.youtube.com/watch?v=OSiNs0rX484 <br>
+https://www.youtube.com/watch?v=OSiNs0rX484
